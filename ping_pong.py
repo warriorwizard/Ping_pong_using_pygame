@@ -107,7 +107,5 @@ while remaining:
     bally += bally_change
 
     balls(ballx,bally)
-
     showscore(textx,texty)
-
     pygame.display.update()
